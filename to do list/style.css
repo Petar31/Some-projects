@@ -1,0 +1,33 @@
+body {
+            padding-top: 5rem;
+            background-image: url(coffee-notebook1.jpg);
+        }
+
+        
+        #title{
+            text-align: center;
+            margin-bottom: 30px;
+            margin-top: 30px;
+        }
+        .btn-danger{
+            margin-left: 10px;
+            position: absolute;
+            right: 10px;
+            bottom: 5px;
+        }
+        #taskList{
+            
+            width: 100%;
+            
+            
+            
+        }
+        #taskRow{
+            margin-top: 30px;
+        }
+        
+        #notepad{
+            
+            height: 700px;
+           
+        }
