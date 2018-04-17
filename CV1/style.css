@@ -1,0 +1,276 @@
+#body{
+    background-color: #efefef;
+    padding-top: 15px;
+    margin-bottom: 80px;
+
+
+}
+
+h3 a {
+    color: white;
+}
+#portfolioBody a{
+    color: black;
+}
+.btn-group button{
+    background-color: rgb(93, 30, 40);
+    color: white;
+} 
+
+h3 button{
+    background-color: rgb(93, 30, 40);;
+    color: white;
+}
+
+
+#header1{
+    text-align: center;
+    color: #336699; 
+}
+#containerR{
+    
+}
+
+
+#header3{
+    
+    text-align: center;
+    padding-bottom: 30px;
+    margin-bottom: 10px;
+}
+
+.btn-group{
+    margin-top: 20px;
+    margin-left: 20px;
+    display: none;
+    left: 30px;
+}
+#prof{
+    text-align: center;
+    
+}
+#prof button{
+    margin-bottom: 15px;
+}
+
+#mainL{
+    background-color: #336699;
+    padding-top: 10px;
+    margin-top: 10px;
+    padding-bottom: 20px;
+    box-shadow: 10px 10px 5px grey;
+    color: white;
+}
+#imgDiv img{
+   width: 100%;
+    
+}
+
+#info{
+    margin-top: 25px;
+    margin-bottom: 15px;
+    color: rgb(93, 30, 40);
+    
+
+}
+
+.title{
+    text-align: center;
+}
+#contact{
+    color: rgb(93, 30, 40);
+     padding-top: 20px;
+    padding-bottom: 21px;
+    
+} 
+#skillsHead{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    color: rgb(93, 30, 40);
+ 
+
+}
+.glyphicon-user, .glyphicon-globe, .glyphicon-earphone {
+    font-size: 30px;
+    color: rgb(93, 30, 40);
+}
+
+#aboutMe{
+    border-bottom: 1px solid rgb(93, 30, 40);
+}
+
+.logo{
+    width: 100%;
+}
+#skillsRow{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+#skills{
+     border-bottom: 1px solid rgb(93, 30, 40);
+    padding-bottom: 20px;
+}
+.glyphicon-phone-alt, #telNum, table{
+    font-size: 15px;
+}
+#mainR{
+   background-color: white;
+    margin-top: 10px;
+     box-shadow: 10px 10px 5px grey;
+    
+}
+
+#mainR2{
+    background-color: white;
+    margin-top: 10px;
+   height: 222px;
+}
+
+#mainL2{
+    
+   height: 1379px;
+     background-color:#336699;
+    margin-top: 10px;
+     box-shadow: 10px 10px 5px grey;
+   
+}
+#mainR1{
+   
+     background-color:#336699;
+    margin-top: 10px;
+}
+.glyphicon-education{
+    font-size: 30px;
+}
+#eduNav{
+    font-size: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    
+}
+
+#eduBody{
+    padding-top: 20px;
+    background-color: white;
+    padding-bottom: 20px;
+}
+
+
+.glyphicon-asterisk, .spanEdu{
+    color: rgb(93, 30, 40);
+    display: inline-block;
+    width: 120px;
+}
+#certif{
+    padding-bottom: 10px;
+    padding-top: 10px;
+   
+}
+#eduCol{
+     border-bottom: 1px solid rgb(93, 30, 40);
+    padding-bottom: 20px;
+}
+
+.list-group-item b{
+    color: rgb(93, 30, 40);
+}
+.col-sm-2 img{
+    width: 100%;
+}
+img-col{
+    width: 75%;
+    height: 75%;
+}
+#certBody{
+    padding-bottom: 10px;
+}
+#expNav, #portfolioNav{
+    font-size: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    background-color:#336699;
+    margin-bottom: 10px;
+}
+#portfolioBody h4{
+    text-align: center;
+    padding-top: 18px;
+}
+#portfolioBody h2{
+    color: rgb(93, 30, 40);
+}
+#portfolioBody{
+    padding-bottom: 20px;
+}
+.btn:visited{
+    color: white;
+}
+
+
+
+.btn:active{
+    color: white;
+}
+.contactBody1{
+    color: white;
+    padding-top: 15px;
+}
+
+.contactBody2{
+    color: white;
+    padding-top: 15px;
+    margin-bottom: 30px;
+}
+.langTable{
+   
+
+    border-bottom: 1px solid rgb(93, 30, 40);
+}
+#langSkills{
+    padding-top: 30px;
+    color: rgb(93, 30, 40);
+    padding-bottom: 20px;
+}
+.langBody{
+    margin-bottom: 10px;
+}
+#telNum a{
+    color: white;
+}
+.badge{
+    padding: 10px;
+}
+.badge-age{
+    padding: 10px;
+    background-color: #08c900;
+}
+.badge-position{
+     padding: 10px;
+    background-color: rgb(93, 30, 40);
+}
+#accountant, #associate{
+    margin-bottom: 10px;
+    text-align: center;
+   
+    
+}
+#accBody{
+     border-bottom: 1px solid rgb(93, 30, 40);
+     margin-bottom: 10px;
+    padding-bottom: 20px;
+}
+#associateBody{
+    margin-bottom: 10px;
+    padding-bottom: 20px;
+}
+.btn a:hover{
+    color: #c6c4c4;
+}
+a:hover{
+    text-decoration: none;
+    
+}
+a:visited{
+    color: white;
+}
