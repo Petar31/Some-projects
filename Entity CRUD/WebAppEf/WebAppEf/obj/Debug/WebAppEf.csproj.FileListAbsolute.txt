@@ -1,0 +1,87 @@
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a\WebAppEf\WebAppEf\bin\WebAppEf.dll.config
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a\WebAppEf\WebAppEf\bin\WebAppEf.dll
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a\WebAppEf\WebAppEf\bin\WebAppEf.pdb
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a\WebAppEf\WebAppEf\bin\Antlr3.Runtime.dll
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a\WebAppEf\WebAppEf\bin\AspNet.ScriptManager.bootstrap.dll
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a\WebAppEf\WebAppEf\bin\AspNet.ScriptManager.jQuery.dll
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a\WebAppEf\WebAppEf\bin\Microsoft.AI.Agent.Intercept.dll
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a\WebAppEf\WebAppEf\bin\Microsoft.ApplicationInsights.dll
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a\WebAppEf\WebAppEf\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a\WebAppEf\WebAppEf\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a\WebAppEf\WebAppEf\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a\WebAppEf\WebAppEf\bin\Microsoft.ScriptManager.WebForms.dll
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a\WebAppEf\WebAppEf\bin\Microsoft.Web.Infrastructure.dll
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a\WebAppEf\WebAppEf\bin\Newtonsoft.Json.dll
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a\WebAppEf\WebAppEf\bin\System.Web.Optimization.dll
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a\WebAppEf\WebAppEf\bin\WebGrease.dll
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a\WebAppEf\WebAppEf\bin\System.Web.Optimization.xml
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a\WebAppEf\WebAppEf\bin\Antlr3.Runtime.pdb
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a\WebAppEf\WebAppEf\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a\WebAppEf\WebAppEf\bin\Newtonsoft.Json.xml
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a\WebAppEf\WebAppEf\bin\Microsoft.ApplicationInsights.xml
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a\WebAppEf\WebAppEf\obj\Debug\WebAppEf.csprojResolveAssemblyReference.cache
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a\WebAppEf\WebAppEf\obj\Debug\WebAppEf.csproj.CoreCompileInputs.cache
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a\WebAppEf\WebAppEf\obj\Debug\WebAppEf.dll
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a\WebAppEf\WebAppEf\obj\Debug\WebAppEf.pdb
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a\WebAppEf\WebAppEf\bin\EntityFramework.dll
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a\WebAppEf\WebAppEf\bin\EntityFramework.SqlServer.dll
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a\WebAppEf\WebAppEf\bin\EntityFramework.xml
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a\WebAppEf\WebAppEf\bin\EntityFramework.SqlServer.xml
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a - Ne brisi\WebAppEf\WebAppEf\bin\WebAppEf.dll.config
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a - Ne brisi\WebAppEf\WebAppEf\bin\WebAppEf.dll
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a - Ne brisi\WebAppEf\WebAppEf\bin\WebAppEf.pdb
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a - Ne brisi\WebAppEf\WebAppEf\bin\Antlr3.Runtime.dll
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a - Ne brisi\WebAppEf\WebAppEf\bin\AspNet.ScriptManager.bootstrap.dll
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a - Ne brisi\WebAppEf\WebAppEf\bin\AspNet.ScriptManager.jQuery.dll
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a - Ne brisi\WebAppEf\WebAppEf\bin\EntityFramework.dll
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a - Ne brisi\WebAppEf\WebAppEf\bin\EntityFramework.SqlServer.dll
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a - Ne brisi\WebAppEf\WebAppEf\bin\Microsoft.AI.Agent.Intercept.dll
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a - Ne brisi\WebAppEf\WebAppEf\bin\Microsoft.ApplicationInsights.dll
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a - Ne brisi\WebAppEf\WebAppEf\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a - Ne brisi\WebAppEf\WebAppEf\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a - Ne brisi\WebAppEf\WebAppEf\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a - Ne brisi\WebAppEf\WebAppEf\bin\Microsoft.ScriptManager.WebForms.dll
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a - Ne brisi\WebAppEf\WebAppEf\bin\Microsoft.Web.Infrastructure.dll
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a - Ne brisi\WebAppEf\WebAppEf\bin\Newtonsoft.Json.dll
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a - Ne brisi\WebAppEf\WebAppEf\bin\System.Web.Optimization.dll
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a - Ne brisi\WebAppEf\WebAppEf\bin\WebGrease.dll
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a - Ne brisi\WebAppEf\WebAppEf\bin\EntityFramework.xml
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a - Ne brisi\WebAppEf\WebAppEf\bin\EntityFramework.SqlServer.xml
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a - Ne brisi\WebAppEf\WebAppEf\bin\System.Web.Optimization.xml
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a - Ne brisi\WebAppEf\WebAppEf\bin\Antlr3.Runtime.pdb
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a - Ne brisi\WebAppEf\WebAppEf\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a - Ne brisi\WebAppEf\WebAppEf\bin\Newtonsoft.Json.xml
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a - Ne brisi\WebAppEf\WebAppEf\bin\Microsoft.ApplicationInsights.xml
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a - Ne brisi\WebAppEf\WebAppEf\obj\Debug\WebAppEf.csprojResolveAssemblyReference.cache
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a - Ne brisi\WebAppEf\WebAppEf\obj\Debug\WebAppEf.csproj.CoreCompileInputs.cache
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a - Ne brisi\WebAppEf\WebAppEf\obj\Debug\WebAppEf.dll
+F:\IT akademija Microsoft web\3. Microsoft Data Access\zadaci\Kreiranje aplikacije za rad sa podacima korišćenjem EF-a - Ne brisi\WebAppEf\WebAppEf\obj\Debug\WebAppEf.pdb
+F:\projects\primeri za github\Entity CRUD\WebAppEf\WebAppEf\bin\WebAppEf.dll.config
+F:\projects\primeri za github\Entity CRUD\WebAppEf\WebAppEf\bin\WebAppEf.dll
+F:\projects\primeri za github\Entity CRUD\WebAppEf\WebAppEf\bin\WebAppEf.pdb
+F:\projects\primeri za github\Entity CRUD\WebAppEf\WebAppEf\bin\Antlr3.Runtime.dll
+F:\projects\primeri za github\Entity CRUD\WebAppEf\WebAppEf\bin\AspNet.ScriptManager.bootstrap.dll
+F:\projects\primeri za github\Entity CRUD\WebAppEf\WebAppEf\bin\AspNet.ScriptManager.jQuery.dll
+F:\projects\primeri za github\Entity CRUD\WebAppEf\WebAppEf\bin\EntityFramework.dll
+F:\projects\primeri za github\Entity CRUD\WebAppEf\WebAppEf\bin\EntityFramework.SqlServer.dll
+F:\projects\primeri za github\Entity CRUD\WebAppEf\WebAppEf\bin\Microsoft.AI.Agent.Intercept.dll
+F:\projects\primeri za github\Entity CRUD\WebAppEf\WebAppEf\bin\Microsoft.ApplicationInsights.dll
+F:\projects\primeri za github\Entity CRUD\WebAppEf\WebAppEf\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\projects\primeri za github\Entity CRUD\WebAppEf\WebAppEf\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\projects\primeri za github\Entity CRUD\WebAppEf\WebAppEf\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\projects\primeri za github\Entity CRUD\WebAppEf\WebAppEf\bin\Microsoft.ScriptManager.WebForms.dll
+F:\projects\primeri za github\Entity CRUD\WebAppEf\WebAppEf\bin\Microsoft.Web.Infrastructure.dll
+F:\projects\primeri za github\Entity CRUD\WebAppEf\WebAppEf\bin\Newtonsoft.Json.dll
+F:\projects\primeri za github\Entity CRUD\WebAppEf\WebAppEf\bin\System.Web.Optimization.dll
+F:\projects\primeri za github\Entity CRUD\WebAppEf\WebAppEf\bin\WebGrease.dll
+F:\projects\primeri za github\Entity CRUD\WebAppEf\WebAppEf\bin\EntityFramework.xml
+F:\projects\primeri za github\Entity CRUD\WebAppEf\WebAppEf\bin\EntityFramework.SqlServer.xml
+F:\projects\primeri za github\Entity CRUD\WebAppEf\WebAppEf\bin\System.Web.Optimization.xml
+F:\projects\primeri za github\Entity CRUD\WebAppEf\WebAppEf\bin\Antlr3.Runtime.pdb
+F:\projects\primeri za github\Entity CRUD\WebAppEf\WebAppEf\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\projects\primeri za github\Entity CRUD\WebAppEf\WebAppEf\bin\Newtonsoft.Json.xml
+F:\projects\primeri za github\Entity CRUD\WebAppEf\WebAppEf\bin\Microsoft.ApplicationInsights.xml
+F:\projects\primeri za github\Entity CRUD\WebAppEf\WebAppEf\obj\Debug\WebAppEf.csprojResolveAssemblyReference.cache
+F:\projects\primeri za github\Entity CRUD\WebAppEf\WebAppEf\obj\Debug\WebAppEf.csproj.CoreCompileInputs.cache
+F:\projects\primeri za github\Entity CRUD\WebAppEf\WebAppEf\obj\Debug\WebAppEf.dll
+F:\projects\primeri za github\Entity CRUD\WebAppEf\WebAppEf\obj\Debug\WebAppEf.pdb
