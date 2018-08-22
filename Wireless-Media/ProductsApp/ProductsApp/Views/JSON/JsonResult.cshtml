@@ -1,0 +1,63 @@
+﻿@model IEnumerable<ProductsApp.Models.Proizvodi>
+
+@{
+    ViewBag.Title = "JsonResult";
+}
+
+<h2>JsonResult</h2>
+
+<p>
+    @Html.ActionLink("Create New", "AddJsonData", "JSON")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.naziv)
+            
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.opis)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.kategorija)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.proizvodjac)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.dobavljac)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.cena)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.naziv)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.opis)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.kategorija)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.proizvodjac)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.dobavljac)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.cena)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", "JSON", new { id=item.id }, null) 
+        
+        </td>
+    </tr>
+}
+
+</table>

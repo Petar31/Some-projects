@@ -1,0 +1,63 @@
+﻿@model ProductsApp.Models.Proizvodi
+@{
+    ViewBag.Title = "AddJsonData";
+}
+
+<h2>AddJsonData</h2>
+
+
+
+<div class="row">
+    <div class="col-4"></div>
+    <div class="col-4">
+        @using (Html.BeginForm("CreateJson", "Json", FormMethod.Post, new { enctype = "multipart/form-data" }))
+        {
+        <div class="form-group">
+            @Html.Label("Naziv")
+            @Html.TextBoxFor(m => m.naziv, null, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m=>m.naziv, "", new { @class = "text-danger" })
+        </div>
+
+        <div class="form-group">
+            @Html.Label("Opis")
+            @Html.TextBoxFor(m => m.opis, null, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.opis, "", new { @class = "text-danger" })
+        </div>
+
+        <div class="form-group">
+            @Html.Label("Kategorija")
+            @Html.TextBoxFor(m => m.kategorija, null, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.kategorija, "", new { @class = "text-danger" })
+        </div>
+
+        <div class="form-group">
+            @Html.Label("Proizvodjac")
+            @Html.TextBoxFor(m => m.proizvodjac, null, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.proizvodjac, "", new { @class = "text-danger" })
+        </div>
+
+        <div class="form-group">
+            @Html.Label("Dobavljac")
+            @Html.TextBoxFor(m => m.dobavljac, null, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.dobavljac, "", new { @class = "text-danger" })
+        </div>
+
+        <div class="form-group">
+            @Html.Label("Cena")
+            @Html.TextBoxFor(m => m.cena, null, new { @class = "form-control", type = "number" })
+            @Html.ValidationMessageFor(m => m.cena, "", new { @class = "text-danger" })
+        </div>
+            <div>
+                <input type="submit" value="Dodaj proizvod" class="btn btn-danger" />
+            </div>
+        }
+
+
+
+    </div>
+    <div class="col-4"></div>
+
+</div>
+
+
+

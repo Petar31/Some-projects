@@ -1,0 +1,56 @@
+﻿@using ProductsApp.Models
+@{
+    ViewBag.Title = "Proizvodi iz baze";
+}
+
+<h2>Proizvodi iz baze</h2>
+<div class="row">
+    <div class="col-1"></div>
+    <div class="col-11">
+        @Html.ActionLink("Add product", "AddProductPage", "Home", new {@class="btn btn-success" })
+    </div>
+
+
+</div>
+
+<div class="row">
+    <div style="display:flex; justify-content:space-around; flex-wrap:wrap;">
+        @foreach (Proizvodi item in CRUDProducts.GetAllProducts())
+        {
+        <div class="card text-center" style="margin:10px;">
+            <div class="card-header bg-info">
+                @item.naziv
+            </div>
+            <div class="card-body">
+                <p>
+                    <span class="text-success">Opis:</span> @item.opis
+                </p>
+                <p>
+                    <span class="text-success"> Kategorija:</span> @item.kategorija
+                </p>
+                <p>
+                    <span class="text-success"> Proizvodjac: </span> @item.proizvodjac
+                </p>
+                <p>
+
+                    <span class="text-success"> Dobavljac:</span> @item.dobavljac
+                </p>
+                <p>
+                    <span class="text-success"> Cena : </span> @item.cena
+                </p>
+               
+
+
+            </div>
+            <div class="card-footer">
+                @Html.ActionLink("Edit", "Edit", "Home",  new { id = item.id }, null)
+            </div>
+
+
+        </div>
+
+        }
+    </div>
+
+</div>
+

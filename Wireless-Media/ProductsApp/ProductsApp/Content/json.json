@@ -1,0 +1,22 @@
+﻿[
+  {
+    "id": 1,
+    "naziv": "Opel Corsa",
+    "opis": "Opel Corsa 1.2 44kw",
+    "kategorija": "B clasa",
+    "proizvodjac": "Opel",
+    "dobavljac": "Opel auto Beograd",
+    "cena": 14000
+  },
+  {
+    "id": 2,
+    "naziv": "Ford Focus",
+    "opis": "Ford Focus 1.0 70kw",
+    "kategorija": "B clasa",
+    "proizvodjac": "Ford",
+    "dobavljac": "Ford auto Beograd",
+    "cena": 17000
+  }
+
+
+]

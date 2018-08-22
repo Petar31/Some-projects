@@ -1,0 +1,67 @@
+[
+  
+  {
+    "id": 1,
+    "naziv": "Opel Corsa",
+    "opis": "Opel Corsa 1.2 40kw",
+    "kategorija": "B clasa",
+    "proizvodjac": "Opel",
+    "dobavljac": "Opel auto Beograd",
+    "cena": 14000.00
+  },
+  {
+    "id": 2,
+    "naziv": "Ford Focus",
+    "opis": "Ford Focus 1.0 100kw",
+    "kategorija": "B clasa",
+    "proizvodjac": "Ford",
+    "dobavljac": "Ford auto Beograd",
+    "cena": 17000.00
+  },
+  {
+    "id": 3,
+    "naziv": "Fiat 500L",
+    "opis": "Fiat 500L 1.4 100kw",
+    "kategorija": "Minivan",
+    "proizvodjac": "Fiat",
+    "dobavljac": "FCA",
+    "cena": 14500.00
+  },
+  {
+    "id": 4,
+    "naziv": "Fiat 500x",
+    "opis": "Fiat 500L 1.4 80kw",
+    "kategorija": "SUV",
+    "proizvodjac": "Fiat",
+    "dobavljac": "FCA Srbija",
+    "cena": 14500.00
+  },
+ 
+  {
+    "id": 5,
+    "naziv": "Opel Mokka",
+    "opis": "Opel Mokka 2.tdi",
+    "kategorija": "SUV",
+    "proizvodjac": "Opel",
+    "dobavljac": "Opel Srbija",
+    "cena": 18900
+  },
+  {
+    "id": 6,
+    "naziv": "Fiat 500",
+    "opis": "Fiat 500 0.9 60kw",
+    "kategorija": "C class",
+    "proizvodjac": "Fiat",
+    "dobavljac": "FCA",
+    "cena": 10500
+  },
+  {
+    "id": 7,
+    "naziv": "Kia Sportage",
+    "opis": "Kia Ceed 1.5 70kw",
+    "kategorija": "B class",
+    "proizvodjac": "Kia",
+    "dobavljac": "Kia Srbija Beograd",
+    "cena": 17800.00
+  }
+]
