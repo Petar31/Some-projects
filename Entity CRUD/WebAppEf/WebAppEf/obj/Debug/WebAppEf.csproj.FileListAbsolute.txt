@@ -85,3 +85,32 @@ F:\projects\primeri za github\Entity CRUD\WebAppEf\WebAppEf\obj\Debug\WebAppEf.c
 F:\projects\primeri za github\Entity CRUD\WebAppEf\WebAppEf\obj\Debug\WebAppEf.csproj.CoreCompileInputs.cache
 F:\projects\primeri za github\Entity CRUD\WebAppEf\WebAppEf\obj\Debug\WebAppEf.dll
 F:\projects\primeri za github\Entity CRUD\WebAppEf\WebAppEf\obj\Debug\WebAppEf.pdb
+C:\Users\petar\Documents\GitHub\Some-projects\Entity CRUD\WebAppEf\WebAppEf\bin\WebAppEf.dll.config
+C:\Users\petar\Documents\GitHub\Some-projects\Entity CRUD\WebAppEf\WebAppEf\bin\WebAppEf.dll
+C:\Users\petar\Documents\GitHub\Some-projects\Entity CRUD\WebAppEf\WebAppEf\bin\WebAppEf.pdb
+C:\Users\petar\Documents\GitHub\Some-projects\Entity CRUD\WebAppEf\WebAppEf\bin\Antlr3.Runtime.dll
+C:\Users\petar\Documents\GitHub\Some-projects\Entity CRUD\WebAppEf\WebAppEf\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\petar\Documents\GitHub\Some-projects\Entity CRUD\WebAppEf\WebAppEf\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\petar\Documents\GitHub\Some-projects\Entity CRUD\WebAppEf\WebAppEf\bin\EntityFramework.dll
+C:\Users\petar\Documents\GitHub\Some-projects\Entity CRUD\WebAppEf\WebAppEf\bin\EntityFramework.SqlServer.dll
+C:\Users\petar\Documents\GitHub\Some-projects\Entity CRUD\WebAppEf\WebAppEf\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\petar\Documents\GitHub\Some-projects\Entity CRUD\WebAppEf\WebAppEf\bin\Microsoft.ApplicationInsights.dll
+C:\Users\petar\Documents\GitHub\Some-projects\Entity CRUD\WebAppEf\WebAppEf\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\petar\Documents\GitHub\Some-projects\Entity CRUD\WebAppEf\WebAppEf\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\petar\Documents\GitHub\Some-projects\Entity CRUD\WebAppEf\WebAppEf\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\petar\Documents\GitHub\Some-projects\Entity CRUD\WebAppEf\WebAppEf\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\petar\Documents\GitHub\Some-projects\Entity CRUD\WebAppEf\WebAppEf\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\petar\Documents\GitHub\Some-projects\Entity CRUD\WebAppEf\WebAppEf\bin\Newtonsoft.Json.dll
+C:\Users\petar\Documents\GitHub\Some-projects\Entity CRUD\WebAppEf\WebAppEf\bin\System.Web.Optimization.dll
+C:\Users\petar\Documents\GitHub\Some-projects\Entity CRUD\WebAppEf\WebAppEf\bin\WebGrease.dll
+C:\Users\petar\Documents\GitHub\Some-projects\Entity CRUD\WebAppEf\WebAppEf\bin\EntityFramework.xml
+C:\Users\petar\Documents\GitHub\Some-projects\Entity CRUD\WebAppEf\WebAppEf\bin\EntityFramework.SqlServer.xml
+C:\Users\petar\Documents\GitHub\Some-projects\Entity CRUD\WebAppEf\WebAppEf\bin\System.Web.Optimization.xml
+C:\Users\petar\Documents\GitHub\Some-projects\Entity CRUD\WebAppEf\WebAppEf\bin\Antlr3.Runtime.pdb
+C:\Users\petar\Documents\GitHub\Some-projects\Entity CRUD\WebAppEf\WebAppEf\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\petar\Documents\GitHub\Some-projects\Entity CRUD\WebAppEf\WebAppEf\bin\Newtonsoft.Json.xml
+C:\Users\petar\Documents\GitHub\Some-projects\Entity CRUD\WebAppEf\WebAppEf\bin\Microsoft.ApplicationInsights.xml
+C:\Users\petar\Documents\GitHub\Some-projects\Entity CRUD\WebAppEf\WebAppEf\obj\Debug\WebAppEf.csprojResolveAssemblyReference.cache
+C:\Users\petar\Documents\GitHub\Some-projects\Entity CRUD\WebAppEf\WebAppEf\obj\Debug\WebAppEf.csproj.CoreCompileInputs.cache
+C:\Users\petar\Documents\GitHub\Some-projects\Entity CRUD\WebAppEf\WebAppEf\obj\Debug\WebAppEf.dll
+C:\Users\petar\Documents\GitHub\Some-projects\Entity CRUD\WebAppEf\WebAppEf\obj\Debug\WebAppEf.pdb
