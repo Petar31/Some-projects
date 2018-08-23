@@ -1,0 +1,101 @@
+﻿@using WebApp.Models
+@using WebApp.Resources
+@model WebApp.Models.CarImg
+
+
+
+@{
+    ViewBag.Title = Resource.Details;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Show</title>
+</head>
+<body>
+    <div class="text-center" >
+        <h1>Info</h1>
+    </div>
+    <div class="row">
+
+        @{
+            CarImg carImg = Model;
+            <div class="col-sm-4">
+                @foreach (var item in carImg.Images)
+                {
+                    <div class="imgSideDiv"><img src="~/images/@item.ProductImage" /></div>
+                }
+            </div>
+            <div class="col-sm-8" id="showCar">
+                <table class="table table-striped table-bordered">
+                    <tr>
+                        <td>@Resource.Manufacturer</td>
+                        <td>@carImg.Car.Make</td>
+                    </tr>
+                    <tr>
+                        <td>@Resource.CarModel</td>
+                        <td>@carImg.Car.Model</td>
+                    </tr>
+                    <tr>
+                        <td>@Resource.ProductionYear</td>
+                        <td>@carImg.Car.ProductionYear</td>
+                    </tr>
+                    <tr>
+                        <td>@Resource.EngineVolume</td>
+                        <td>@carImg.Car.EngineVolume cm<sup>3</sup></td>
+                    </tr>
+                    <tr>
+                        <td>@Resource.EnginePower</td>
+                        <td>@carImg.Car.EnginePower KW</td>
+                    </tr>
+                    <tr>
+                        <td>@Resource.CarBody</td>
+                        <td>@carImg.Car.CarBody</td>
+                    </tr>
+                    <tr>
+                        <td>@Resource.Description</td>
+                        <td>@carImg.Car.Description</td>
+                    </tr>
+                    <tr>
+                        <td>@Resource.Price</td>
+                        <td>@carImg.Car.Price EUR</td>
+                    </tr>
+                    <tr>
+                        <td>@Resource.Contact</td>
+                        <td>@carImg.Car.Contact</td>
+                    </tr>
+                </table>
+                @if (Request.IsAuthenticated && User.Identity.Name.Trim().Equals("Admin"))
+                {
+                    <div style="display:flex; justify-content:center;">
+                        @Html.ActionLink(Resource.DeleteAdvertisment, "RemoveCar", "Home", new { id = carImg.Car.CarId }, new { @class = "btn btn-danger" })
+                    </div>
+                }
+                else
+                {
+                    <div class="text-danger text-center">
+                        *@Resource.LoginMsg
+                    </div>
+                }
+
+            </div>
+
+
+                }
+
+
+           
+           
+
+        </div>
+  
+    
+</body>
+
+
+
+
+</html>

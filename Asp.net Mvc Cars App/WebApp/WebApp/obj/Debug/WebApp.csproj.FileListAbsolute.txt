@@ -1,0 +1,83 @@
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje MVC aplikacije\WebApp\WebApp\bin\WebApp.dll.config
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje MVC aplikacije\WebApp\WebApp\bin\WebApp.dll
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje MVC aplikacije\WebApp\WebApp\bin\WebApp.pdb
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje MVC aplikacije\WebApp\WebApp\bin\Microsoft.Web.Infrastructure.dll
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje MVC aplikacije\WebApp\WebApp\bin\System.Web.Helpers.dll
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje MVC aplikacije\WebApp\WebApp\bin\System.Web.Mvc.dll
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje MVC aplikacije\WebApp\WebApp\bin\System.Web.Razor.dll
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje MVC aplikacije\WebApp\WebApp\bin\System.Web.Webpages.Deployment.dll
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje MVC aplikacije\WebApp\WebApp\bin\System.Web.Webpages.dll
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje MVC aplikacije\WebApp\WebApp\bin\System.Web.Webpages.Razor.dll
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje MVC aplikacije\WebApp\WebApp\bin\System.Web.Razor.xml
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje MVC aplikacije\WebApp\WebApp\bin\System.Web.Webpages.xml
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje MVC aplikacije\WebApp\WebApp\bin\System.Web.Webpages.Deployment.xml
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje MVC aplikacije\WebApp\WebApp\bin\System.Web.Webpages.Razor.xml
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje MVC aplikacije\WebApp\WebApp\bin\System.Web.Helpers.xml
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje MVC aplikacije\WebApp\WebApp\bin\System.Web.Mvc.xml
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje MVC aplikacije\WebApp\WebApp\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje MVC aplikacije\WebApp\WebApp\obj\Debug\WebApp.csproj.CopyComplete
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje MVC aplikacije\WebApp\WebApp\obj\Debug\WebApp.dll
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje MVC aplikacije\WebApp\WebApp\obj\Debug\WebApp.pdb
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje MVC aplikacije\WebApp\WebApp\bin\EntityFramework.dll
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje MVC aplikacije\WebApp\WebApp\bin\EntityFramework.SqlServer.dll
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje MVC aplikacije\WebApp\WebApp\bin\EntityFramework.xml
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje MVC aplikacije\WebApp\WebApp\bin\EntityFramework.SqlServer.xml
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje MVC aplikacije\WebApp\WebApp\obj\Debug\WebApp.csprojAssemblyReference.cache
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Realizacija Admin dela\WebApp\WebApp\bin\WebApp.dll.config
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Realizacija Admin dela\WebApp\WebApp\bin\WebApp.dll
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Realizacija Admin dela\WebApp\WebApp\bin\WebApp.pdb
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Realizacija Admin dela\WebApp\WebApp\bin\EntityFramework.dll
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Realizacija Admin dela\WebApp\WebApp\bin\EntityFramework.SqlServer.dll
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Realizacija Admin dela\WebApp\WebApp\bin\Microsoft.Web.Infrastructure.dll
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Realizacija Admin dela\WebApp\WebApp\bin\System.Web.Helpers.dll
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Realizacija Admin dela\WebApp\WebApp\bin\System.Web.Mvc.dll
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Realizacija Admin dela\WebApp\WebApp\bin\System.Web.Razor.dll
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Realizacija Admin dela\WebApp\WebApp\bin\System.Web.Webpages.Deployment.dll
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Realizacija Admin dela\WebApp\WebApp\bin\System.Web.Webpages.dll
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Realizacija Admin dela\WebApp\WebApp\bin\System.Web.Webpages.Razor.dll
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Realizacija Admin dela\WebApp\WebApp\bin\EntityFramework.xml
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Realizacija Admin dela\WebApp\WebApp\bin\EntityFramework.SqlServer.xml
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Realizacija Admin dela\WebApp\WebApp\bin\System.Web.Razor.xml
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Realizacija Admin dela\WebApp\WebApp\bin\System.Web.Webpages.xml
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Realizacija Admin dela\WebApp\WebApp\bin\System.Web.Webpages.Deployment.xml
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Realizacija Admin dela\WebApp\WebApp\bin\System.Web.Webpages.Razor.xml
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Realizacija Admin dela\WebApp\WebApp\bin\System.Web.Helpers.xml
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Realizacija Admin dela\WebApp\WebApp\bin\System.Web.Mvc.xml
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Realizacija Admin dela\WebApp\WebApp\obj\Debug\WebApp.csprojAssemblyReference.cache
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Realizacija Admin dela\WebApp\WebApp\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Realizacija Admin dela\WebApp\WebApp\obj\Debug\WebApp.csproj.CopyComplete
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Realizacija Admin dela\WebApp\WebApp\obj\Debug\WebApp.dll
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Realizacija Admin dela\WebApp\WebApp\obj\Debug\WebApp.pdb
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje lokalizacije\WebApp\WebApp\bin\WebApp.dll.config
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje lokalizacije\WebApp\WebApp\bin\WebApp.dll
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje lokalizacije\WebApp\WebApp\bin\WebApp.pdb
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje lokalizacije\WebApp\WebApp\bin\EntityFramework.dll
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje lokalizacije\WebApp\WebApp\bin\EntityFramework.SqlServer.dll
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje lokalizacije\WebApp\WebApp\bin\Microsoft.Web.Infrastructure.dll
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje lokalizacije\WebApp\WebApp\bin\System.Web.Helpers.dll
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje lokalizacije\WebApp\WebApp\bin\System.Web.Mvc.dll
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje lokalizacije\WebApp\WebApp\bin\System.Web.Razor.dll
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje lokalizacije\WebApp\WebApp\bin\System.Web.Webpages.Deployment.dll
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje lokalizacije\WebApp\WebApp\bin\System.Web.Webpages.dll
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje lokalizacije\WebApp\WebApp\bin\System.Web.Webpages.Razor.dll
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje lokalizacije\WebApp\WebApp\bin\EntityFramework.xml
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje lokalizacije\WebApp\WebApp\bin\EntityFramework.SqlServer.xml
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje lokalizacije\WebApp\WebApp\bin\System.Web.Razor.xml
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje lokalizacije\WebApp\WebApp\bin\System.Web.Webpages.xml
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje lokalizacije\WebApp\WebApp\bin\System.Web.Webpages.Deployment.xml
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje lokalizacije\WebApp\WebApp\bin\System.Web.Webpages.Razor.xml
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje lokalizacije\WebApp\WebApp\bin\System.Web.Helpers.xml
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje lokalizacije\WebApp\WebApp\bin\System.Web.Mvc.xml
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje lokalizacije\WebApp\WebApp\obj\Debug\WebApp.csprojAssemblyReference.cache
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje lokalizacije\WebApp\WebApp\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje lokalizacije\WebApp\WebApp\obj\Debug\WebApp.csproj.CopyComplete
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje lokalizacije\WebApp\WebApp\obj\Debug\WebApp.dll
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje lokalizacije\WebApp\WebApp\obj\Debug\WebApp.pdb
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje lokalizacije\WebApp\WebApp\obj\Debug\WebApp.Resources.Resource.resources
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje lokalizacije\WebApp\WebApp\obj\Debug\WebApp.csproj.GenerateResource.cache
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje lokalizacije\WebApp\WebApp\bin\sr\WebApp.resources.dll
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje lokalizacije\WebApp\WebApp\obj\Debug\WebApp.Resources.Resource.sr.resources
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje lokalizacije\WebApp\WebApp\obj\Debug\sr\WebApp.resources.dll
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje lokalizacije\WebApp\WebApp\bin\fr\WebApp.resources.dll
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje lokalizacije\WebApp\WebApp\obj\Debug\WebApp.Resources.Resource.fr.resources
+F:\IT akademija Microsoft web\6. Web Application Development – ASP.NET MVC\zadaci\Assignment - Kreiranje lokalizacije\WebApp\WebApp\obj\Debug\fr\WebApp.resources.dll

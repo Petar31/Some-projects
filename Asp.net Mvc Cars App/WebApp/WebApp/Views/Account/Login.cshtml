@@ -1,0 +1,42 @@
+﻿@model WebApp.Models.User
+@using WebApp.Resources
+@{ 
+    ViewBag.Title = Resource.Login;
+}
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Login</title>
+</head>
+<body>
+    <div class="row">
+        <div class="col-sm-3"></div>
+        <div class="col-sm-6">
+            @using (Html.BeginForm("Login", "Account", FormMethod.Post))
+            {
+            <div class="form-group">
+                @Html.LabelFor(m => m.UserName)
+                @Html.TextBoxFor(m => m.UserName, null, new { @class = "form-control" })
+                @Html.ValidationMessageFor(m => m.UserName, null, new { @class = "text-danger" })
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(m => m.Password)
+                @Html.TextBoxFor(m => m.Password, null, new { @class = "form-control", @type="password" })
+                @Html.ValidationMessageFor(m => m.Password, null, new { @class = "text-danger" })
+            </div>
+            <div>
+                <input type="submit" value='@Resource.Login' class="btn btn-info" />
+            </div>
+            <div class="text-danger text-center">
+                *@Resource.DontHaveAccount @Html.ActionLink(Resource.SignUp, "SignupPage", "Account")
+            </div>
+
+            }
+        </div>
+        <div class="col-sm-3"></div>
+
+    </div>
+</body>
+</html>

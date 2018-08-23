@@ -1,0 +1,91 @@
+﻿@using WebApp.Resources
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="~/Content/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/Content/Style.css" />
+    <link rel="stylesheet" href="~/Content/bootstrap.css" />
+    <script src="~/Scripts/jquery-3.0.0.js"></script>
+    <script src="~/Scripts/jquery.validate.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+    
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <nav class="navbar navbar-expand-lg navbar-dark bg-dark border border-dark">
+
+                <a class="navbar-brand" href="#">@Resource.CarWebshop</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                    <div class="navbar-nav">
+                        <a class="nav-item nav-link active" href="~/Home/Index">@Resource.Home<span class="sr-only">(current)</span></a>
+                        <a class="nav-item nav-link" href="~/Home/AboutUs">@Resource.AboutUs</a>
+                        <a class="nav-item nav-link" href="~/Home/Contact">@Resource.Contact</a>
+                        <a class="nav-item nav-link" href="~/Home/AddCarPage">@Resource.AddCar</a>
+
+                    </div>
+
+                </div>
+
+
+                <div>
+                    @if (Request.IsAuthenticated)
+                    {
+                        <div class="text-success">
+                            @Resource.User : @User.Identity.Name
+                        </div>
+                    }
+                </div>
+                <div>
+                    @if (!Request.IsAuthenticated)
+                    {
+                        <a class="nav-item nav-link" href="~/Account/LoginPage">@Resource.Login</a>
+                    }
+                    else
+                    {
+                        <a class="nav-item nav-link" href="~/Account/Logout">@Resource.Logout</a>
+                    }
+
+                </div>
+                <div class="dropdown">
+                    <button class="btn btn-danger dropdown-toggle" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">lng</button>
+                    <div class="dropdown-menu bg-danger text-light" id="dropDiv" aria-labelledby="dropdownMenuButton">
+                        @Html.ActionLink("en", "SetCulture", "Home", new { culture = "en", sourceUrl = Request.RawUrl }, new { @class = "dropdown-item" })
+                        @Html.ActionLink("sr", "SetCulture", "Home", new { culture = "sr", sourceUrl = Request.RawUrl }, new { @class = "dropdown-item" })
+                        @Html.ActionLink("fr", "SetCulture", "Home", new { culture = "fr", sourceUrl = Request.RawUrl }, new { @class = "dropdown-item" })
+                    </div>
+
+                </div>
+
+            </nav>
+        </div>
+        <div class="row" id="imgNav">
+            <div class="col-sm-12">
+                <img src="@Url.Content("~/images/tyre3.png")" />
+
+            </div>
+
+
+        </div>
+
+        <div class="row" id="main">
+
+            <div class="col-sm-12">
+                @RenderBody()
+            </div>
+        </div>
+
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</body>
+
+</html>

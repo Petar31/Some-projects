@@ -1,0 +1,60 @@
+﻿@using WebApp.Models
+@using WebApp.Resources
+@{
+    ViewBag.Title = Resource.Home;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div class="indexHeader text-center" id="indexHeader">
+        <h1>@Resource.CarWebshop</h1>
+    </div>
+
+    @if (ViewBag.NewCar != null)
+    {
+        <div class="text-center text-success">
+            @Resource.CarAdded - @ViewBag.NewCar
+        </div>
+    }
+    @if (TempData["message"] != null)
+    {
+        <div class="text-center text-success">
+            @TempData["message"]
+        </div>
+    }
+
+
+    <div id="mainIndex">
+
+        @foreach (var item in CRUDCars.GetAllCars())
+        {
+            <div class="card" style="width:250px; ">
+
+                <div class="card-header bg-primary text-center text-white">@item.Car.Make  @item.Car.Model</div>
+                <div class="card-header bg-warning text-center">@item.Car.ProductionYear</div>
+                <div style="height:150px;">
+                    @foreach (var item1 in item.Images)
+                    {
+                        <img style="width:100%; height:100%;" src="~/images/@item1.ProductImage" />
+                        break;
+                    }
+                </div>
+                <div class="card-footer bg-dark text-center text-dark">
+                    @Html.ActionLink(Resource.ShowMore, "Show", "Home", new { id = item.Car.CarId }, null)
+
+                </div>
+
+
+            </div>
+        }
+
+
+    </div>
+</body>
+</html>

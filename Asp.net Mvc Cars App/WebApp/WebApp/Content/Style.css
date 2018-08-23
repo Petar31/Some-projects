@@ -1,0 +1,92 @@
+﻿body {
+    padding-top: 10px;
+    background-color: #d9e5f2;
+    padding-bottom:10px;
+}
+.navbar-nav a{
+    margin:0px 20px;
+}
+.navbar{
+    width:100%;
+}
+#imgNav{
+    height:160px;
+}
+
+#imgNav img{
+    width:100%;
+    height:100%;
+}
+
+#imgNav div{
+    padding:0px;
+}
+#main>div{
+    padding-top:30px;
+    background-color:white;
+    padding-bottom:20px;
+}
+
+#mainIndex{
+    display:flex;
+    justify-content: flex-start;
+    align-content:space-around;
+    flex-wrap:wrap;
+    padding-top:20px;
+    padding-left:7%;
+}
+#indexHeader{
+  
+    margin-top:30px;
+    margin-bottom:30px;
+}
+.card-footer a:hover{
+    color:white;
+    text-decoration:none;
+}
+
+.card{
+ 
+    margin:3%;
+}
+.imgSideDiv{
+    width:100%;
+    margin-top:30px;
+}
+.imgSideDiv img{
+    width:100%;
+}
+
+#showCar{
+    margin-top:27px;
+}
+
+#aboutHeader {
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+#addHeader {
+    margin-bottom: 30px;
+    margin-top:0px;
+}
+
+#addContainer, #contactContainer {
+    background-color: lightgray;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.liCulture{
+    margin-right:10px;
+    color:white;
+    text-decoration:none;
+}
+
+.liCulture:hover{
+    color:red;
+    text-decoration:none;
+}
+
+.dropdown>div{
+    width:50px;
+}
