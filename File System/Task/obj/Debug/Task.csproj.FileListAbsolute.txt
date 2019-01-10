@@ -1,0 +1,10 @@
+C:\Users\petar\Desktop\Task\Task\bin\Debug\Task.exe.config
+C:\Users\petar\Desktop\Task\Task\bin\Debug\Task.exe
+C:\Users\petar\Desktop\Task\Task\bin\Debug\Task.pdb
+C:\Users\petar\Desktop\Task\Task\obj\Debug\Task.csprojAssemblyReference.cache
+C:\Users\petar\Desktop\Task\Task\obj\Debug\Task.Form1.resources
+C:\Users\petar\Desktop\Task\Task\obj\Debug\Task.Properties.Resources.resources
+C:\Users\petar\Desktop\Task\Task\obj\Debug\Task.csproj.GenerateResource.cache
+C:\Users\petar\Desktop\Task\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+C:\Users\petar\Desktop\Task\Task\obj\Debug\Task.exe
+C:\Users\petar\Desktop\Task\Task\obj\Debug\Task.pdb
