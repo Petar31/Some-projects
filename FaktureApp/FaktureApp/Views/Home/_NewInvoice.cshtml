@@ -1,0 +1,38 @@
+﻿@model FaktureApp.Models.Fakture.Faktura
+
+
+
+<div class="row d-flex" id="row1Create">
+    <div class="col-sm-3 d-flex align-items-center">
+        <h2>Nova Faktura</h2>
+
+    </div>
+
+    <div class="col-sm-9 ">
+        <form asp-action="Create" method="post" class="d-flex justify-content-around">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label class="control-label">BrojFakture</label>
+                <input asp-for="BrojFakture" class="form-control" />
+                <span asp-validation-for="BrojFakture" data-valmsg-for="BrojFakture" data-valmsg-replace="true" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Datum dokumenta</label>
+                <input asp-for="DatumDokumenta" type="text" value="@DateTime.Now.ToShortDateString()" class="form-control" />
+                <span asp-validation-for="DatumDokumenta" class="text-danger"></span>
+            </div>
+            <input type="hidden" asp-for="Ukupno" value="0" />
+            <div class="form-group d-flex align-items-end">
+                <input type="submit" value="Dodaj fakturu" class="btn btn-success" />
+            </div>
+        </form>
+
+    </div>
+
+</div>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,68 @@
+﻿@model FaktureApp.Models.Fakture.Stavka
+
+
+
+<div class="row" id="izmeni">
+
+    <div class="col-sm-6">
+        <div class="row">
+            <div class="col-sm-5">
+                <h4>Izmeni stavku</h4>
+            </div>
+
+            <div class="col-sm-7">
+
+                <form asp-action="_FindItems" class="d-flex justify-content-around" data-ajax="true" data-ajax-update="#res">
+                    <h5>Broj fakture</h5>
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <input type="hidden" asp-for="RedniBroj" />
+
+                    <div class="form-group">
+
+
+                        <select id="select" class="form-control" name="select" data-ajax="true" data-ajax-update="#res">
+                            <option>Izaberi fakturu</option>
+                            @foreach (var item in ViewBag.BrojFakture)
+                            {
+                                <option value="@item.BrojDokumenta">@item.BrojFakture</option>
+                            }
+                        </select>
+                        <span asp-validation-for="BrojDokumenta" class="text-danger"></span>
+                    </div>
+
+
+                </form>
+            </div>
+        </div>
+        <div id="res2">
+
+        </div>
+
+    </div>
+
+    <div class="col-sm-6" id="res">
+
+    </div>
+
+
+
+
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+
+<script>
+    //alert("Hello");
+    $("#select").on("change", function () {
+        var val = $("#select").val();
+        $.get("/Home/_FindItems?select=" + val, function (data) {
+            $("#res").html(data);
+        });
+        $("#res2").html("");
+    })
+
+</script>
+
+

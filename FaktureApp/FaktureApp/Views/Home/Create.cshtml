@@ -1,0 +1,29 @@
+﻿@model IEnumerable<FaktureApp.Models.Fakture.Faktura>
+
+@{
+    ViewData["Title"] = "Create";
+}
+<div class="row text-danger d-flex justify-content-center">
+    @ViewBag.Message
+</div>
+@{await Html.RenderPartialAsync("_NewInvoice");}
+
+
+
+@{await Html.RenderPartialAsync("_NewItem");}
+
+@{await Html.RenderPartialAsync("_Items");}
+
+
+<script>
+        //$(document).ready(function () {
+        //    $.get("/Home/_NewItem", function (data) {
+        //        $("#newItem").html(data);
+        //    });
+        //})
+
+</script>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

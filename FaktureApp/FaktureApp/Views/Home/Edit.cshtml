@@ -1,0 +1,45 @@
+﻿@model FaktureApp.Models.Fakture.Faktura
+
+@{
+    ViewData["Title"] = "Izmeni";
+}
+
+
+
+
+
+<div class="row d-flex justify-content-center">
+    <div class="col-sm-4">
+        <h2 class="d-flex justify-content-center">Izmeni</h2>
+    </div>
+</div>
+<div class="row d-flex justify-content-center">
+    <div class="col-sm-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="BrojDokumenta" />
+            <div class="form-group">
+                <label class="control-label">Broj fakture</label>
+                <input asp-for="BrojFakture" class="form-control" />
+                <span asp-validation-for="BrojFakture" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Datum dokumenta</label>
+                <input asp-for="DatumDokumenta" class="form-control" type="text" />
+                <span asp-validation-for="DatumDokumenta" class="text-danger"></span>
+            </div>
+            <input type="hidden" asp-for="Ukupno" />
+            <div class="form-group">
+                <input type="submit" value="Zapamti" class="btn btn-success" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Nazad na fakture</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

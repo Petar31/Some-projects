@@ -1,0 +1,62 @@
+﻿@model IEnumerable<FaktureApp.Models.Fakture.Faktura>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<div class="row d-flex justify-content-center">
+    <h2>Fakture</h2>
+</div>
+
+
+<div class="row d-flex justify-content-center">
+    <h6 class="text-success">
+        @ViewBag.Message
+    </h6>
+</div>
+
+<div class="row d-flex justify-content-center">
+    <div class="col-sm-10 d-flex justify-content-around">
+        <p>
+            <a asp-action="Create" class="btn btn-danger">Nova faktura</a>
+        </p>
+        <table class="table" style="width:80%;">
+            <thead>
+                <tr>
+                    <th>
+                        Broj Fakture
+                    </th>
+                    <th>
+                        Datum Dokumenta
+                    </th>
+                    <th>
+                        Ukupno
+                    </th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @item.BrojFakture
+                        </td>
+                        <td>
+                            @item.DatumDokumenta.ToShortDateString()
+                        </td>
+                        <td>
+                            @item.Ukupno.ToString("N")
+                        </td>
+                        <td>
+                            <a asp-action="Edit" class="btn btn-sm btn-outline-warning" asp-route-id="@item.BrojDokumenta">Izmeni</a> 
+                            <a asp-action="Details" class="btn btn-sm btn-outline-info" asp-route-id="@item.BrojDokumenta">Detalji</a> 
+                            <a asp-action="Delete" class="btn btn-sm btn-outline-danger" asp-route-id="@item.BrojDokumenta">Obrisi</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+   
+</div>
+

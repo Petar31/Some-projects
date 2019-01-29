@@ -1,0 +1,45 @@
+﻿@model FaktureApp.Models.Fakture.Faktura
+
+@{
+    ViewData["Title"] = "Details";
+}
+<div class="row d-flex justify-content-center">
+    <div class="col-sm-4">
+        <h2 class="d-flex justify-content-center">Detalji</h2>
+    </div>
+</div>
+
+
+<div class="row d-flex justify-content-center">
+    <div class="col-sm-4">
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.BrojFakture)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.BrojFakture)
+            </dd>
+            <dt>
+                @Html.DisplayNameFor(model => model.DatumDokumenta)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.DatumDokumenta)
+            </dd>
+            <dt>
+                @Html.DisplayNameFor(model => model.Ukupno)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Ukupno)
+            </dd>
+        </dl>
+    </div>
+
+   
+</div>
+<div class="row d-flex justify-content-center">
+    <div class="col-sm-4 d-flex justify-content-around">
+        <a asp-action="Edit" asp-route-id="@Model.BrojDokumenta">Izmeni</a> 
+        <a asp-action="Index">Nazad na fakture</a>
+    </div>
+  
+</div>

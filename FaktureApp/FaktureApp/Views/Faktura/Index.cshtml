@@ -1,0 +1,47 @@
+﻿@model IEnumerable<FaktureApp.Models.Fakture.Faktura>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.BrojFakture)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.DatumDokumenta)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Ukupno)
+                </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.BrojFakture)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DatumDokumenta)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ukupno)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.BrojDokumenta">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.BrojDokumenta">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.BrojDokumenta">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

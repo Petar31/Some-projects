@@ -1,0 +1,50 @@
+﻿@model IEnumerable<FaktureApp.Models.Fakture.Stavka>
+<h5>Stavke fakture</h5>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Redni broj
+            </th>
+                <th>
+                    Kolicina
+                </th>
+                <th>
+                    Cena
+                </th>
+                <th>
+                    Ukupno
+                </th>
+          
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @item.RedniBroj
+            </td>
+            <td>
+                @item.Kolicina.ToString("N")
+            </td>
+            <td>
+                @item.Cena.ToString("N")
+            </td>
+            <td>
+                @item.Ukupno.ToString("N")
+            </td>
+           
+            <td class="d-flex justify-content-around">
+                <form asp-controller="Home" asp-action="DeleteItem" asp-route-id="@item.RedniBroj" asp-route-fak="@item.BrojDokumenta">
+                    <input class="btn btn-danger btn-sm" type="submit" value="Obrisi" />
+                </form>
+               
+                <a class="btn btn-warning btn-sm" asp-action="_ChangeItem" asp-route-id="@item.RedniBroj" asp-route-fak="@item.BrojDokumenta" data-ajax="true" data-ajax-update="#res2">Izmeni</a>
+                
+               
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

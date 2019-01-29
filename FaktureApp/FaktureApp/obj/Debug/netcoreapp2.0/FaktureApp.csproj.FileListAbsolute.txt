@@ -1,0 +1,11 @@
+C:\Users\petar\Desktop\Task-Edeja\FaktureApp\FaktureApp\bin\Debug\netcoreapp2.0\FaktureApp.deps.json
+C:\Users\petar\Desktop\Task-Edeja\FaktureApp\FaktureApp\bin\Debug\netcoreapp2.0\FaktureApp.runtimeconfig.json
+C:\Users\petar\Desktop\Task-Edeja\FaktureApp\FaktureApp\bin\Debug\netcoreapp2.0\FaktureApp.runtimeconfig.dev.json
+C:\Users\petar\Desktop\Task-Edeja\FaktureApp\FaktureApp\bin\Debug\netcoreapp2.0\FaktureApp.dll
+C:\Users\petar\Desktop\Task-Edeja\FaktureApp\FaktureApp\bin\Debug\netcoreapp2.0\FaktureApp.pdb
+C:\Users\petar\Desktop\Task-Edeja\FaktureApp\FaktureApp\obj\Debug\netcoreapp2.0\FaktureApp.csproj.CoreCompileInputs.cache
+C:\Users\petar\Desktop\Task-Edeja\FaktureApp\FaktureApp\obj\Debug\netcoreapp2.0\FaktureApp.AssemblyInfoInputs.cache
+C:\Users\petar\Desktop\Task-Edeja\FaktureApp\FaktureApp\obj\Debug\netcoreapp2.0\FaktureApp.AssemblyInfo.cs
+C:\Users\petar\Desktop\Task-Edeja\FaktureApp\FaktureApp\obj\Debug\netcoreapp2.0\FaktureApp.dll
+C:\Users\petar\Desktop\Task-Edeja\FaktureApp\FaktureApp\obj\Debug\netcoreapp2.0\FaktureApp.pdb
+C:\Users\petar\Desktop\Task-Edeja\FaktureApp\FaktureApp\obj\Debug\netcoreapp2.0\FaktureApp.csprojAssemblyReference.cache
